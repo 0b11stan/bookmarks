@@ -38,3 +38,8 @@
 * [collapseos](https://collapseos.org/): Systeme d'exploitation résilient à un effondrement de la société
 * [dan williams' blog](https://blogs.gnome.org/dcbw/): Blogue de Dan Williams, dévelloppeur de "Network Manager"
 * [jessie's blog](https://blog.jessfraz.com/): Blogue de Jessie Frazelle, develloppeuse système
+* [archlinux arm](https://archlinuxarm.org/): Une version d'archlinux pour architectures ARM
+
+## Dev
+
+* [python vs go vs rust](https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/): Un program écrit en python, go et rust
