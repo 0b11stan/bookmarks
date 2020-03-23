@@ -36,3 +36,5 @@
 
 * [takeover.sh](https://github.com/marcan/takeover.sh): Scripte qui permet la réinstallation d'un Linux via SSH sans redémarage du système
 * [collapseos](https://collapseos.org/): Systeme d'exploitation résilient à un effondrement de la société
+* [dan williams' blog](https://blogs.gnome.org/dcbw/): Blogue de Dan Williams, dévelloppeur de "Network Manager"
+* [jessie's blog](https://blog.jessfraz.com/): Blogue de Jessie Frazelle, develloppeuse système
