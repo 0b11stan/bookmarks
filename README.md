@@ -20,6 +20,7 @@
 * [volt](https://volt-app.com/): Client de messagerie minimaliste qui supporte plusieurs plateformes
 * [fairphone](https://www.fairphone.com/fr/): Téléphone avec une faible empreinte écologique qui facilite la réparation et la résilience
 * [lightphone](https://www.thelightphone.com/): Téléphone minimaliste accès sur la simplicité
+* [NewPipe](https://newpipe.schabi.org/): Alternative au client youtube, + légère, + de privacy, - de consommation
 
 ## Repair
 
@@ -31,6 +32,7 @@
 ## Privacy
 
 * [homebrewserver](https://homebrewserver.club/): Communauté qui rassemble de la documentation sur l'auto-hébergement informatique
+* [NewPipe](https://newpipe.schabi.org/): Alternative au client youtube, + légère, + de privacy, - de consommation
 
 ## \*nix
 
