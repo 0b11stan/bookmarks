@@ -1,5 +1,9 @@
 # bookmarks
 
+## Ecologie
+
+* [le réveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ): Chaine d'un Docteur en écologie qui explique beaucoup de choses d'un point de vue très objectif
+
 ## Collapsologie
 
 * [collapseos](https://collapseos.org/): Systeme d'exploitation résilient à un effondrement de la société
@@ -8,6 +12,8 @@
 
 * [maisons autonomes](https://www.youtube.com/playlist?list=PLVipPfGuIPznnuaJVZKrhKHNa5QJp3AZK): Playliste de maisons autonomes plein de bonnes idée pour plus de résiliences
 * [homebrewserver](https://homebrewserver.club/): Communauté qui rassemble de la documentation sur l'auto-hébergement informatique
+* [diy bow](https://www.youtube.com/watch?v=d5GWpskm_IA): Réaliser un arc à partir d'un bois de qualité moyenne avec seulement 4 outils
+* [crossbow privitive](https://www.youtube.com/watch?v=oksgEIgIQbo): Arbalete à partir de bois et de pierre
 
 ## Lowtech
 
