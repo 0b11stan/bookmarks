@@ -17,6 +17,7 @@
 
 ## Lowtech
 
+* [lowtech lab](https://wiki.lowtechlab.org/wiki/Accueil): Ensemble de tutos pour des technos lowtech
 * [magazine](https://solar.lowtechmagazine.com/): Référence de la philosophie et idée lowtech
 * [back7](https://back7.co/): Blogue d'un passionné d'embarqué avec des idée de projets détaillés
 * [collapseos](https://collapseos.org/): Systeme d'exploitation résilient à un effondrement de la société
