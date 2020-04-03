@@ -28,6 +28,8 @@
 * [fairphone](https://www.fairphone.com/fr/): Téléphone avec une faible empreinte écologique qui facilite la réparation et la résilience
 * [lightphone](https://www.thelightphone.com/): Téléphone minimaliste accès sur la simplicité
 * [NewPipe](https://newpipe.schabi.org/): Alternative au client youtube, + légère, + de privacy, - de consommation
+* [cat -v](http://harmful.cat-v.org/software/): Un blogue intéressant pour tout ce qui traite de la sobriété dans l'informatique
+* [suckless.org](http://suckless.org/): Website dedicated to sober computer science
 
 ## Repair
 
@@ -40,6 +42,7 @@
 
 * [homebrewserver](https://homebrewserver.club/): Communauté qui rassemble de la documentation sur l'auto-hébergement informatique
 * [NewPipe](https://newpipe.schabi.org/): Alternative au client youtube, + légère, + de privacy, - de consommation
+* [EFF](https://www.eff.org/fr): Une organisation sans profit qui défend la vie privée, liberté d'expresion et l'innovation
 
 ## \*nix
 
@@ -52,3 +55,9 @@
 ## Dev
 
 * [python vs go vs rust](https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/): Un program écrit en python, go et rust
+* [cat -v](http://harmful.cat-v.org/software/): Un blogue intéressant pour tout ce qui traite de la sobriété dans l'informatique
+* [suckless.org](http://suckless.org/): Website dedicated to sober computer science
+
+## Hacktivism
+
+* [Hacking-Social](https://www.hacking-social.com/sommaire-par-sujets/): Un blogue très instructif avec une magnifique philosophie qui étudie la sociologie, psychologie, ...
