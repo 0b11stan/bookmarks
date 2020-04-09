@@ -14,6 +14,7 @@
 * [homebrewserver](https://homebrewserver.club/): Communauté qui rassemble de la documentation sur l'auto-hébergement informatique
 * [diy bow](https://www.youtube.com/watch?v=d5GWpskm_IA): Réaliser un arc à partir d'un bois de qualité moyenne avec seulement 4 outils
 * [crossbow privitive](https://www.youtube.com/watch?v=oksgEIgIQbo): Arbalete à partir de bois et de pierre
+* [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton): Système de vidéo-conférences open source
 
 ## Lowtech
 
@@ -57,6 +58,10 @@
 * [python vs go vs rust](https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/): Un program écrit en python, go et rust
 * [cat -v](http://harmful.cat-v.org/software/): Un blogue intéressant pour tout ce qui traite de la sobriété dans l'informatique
 * [suckless.org](http://suckless.org/): Website dedicated to sober computer science
+
+## Pentest / BugBounty
+
+* [Beginner Nahamsec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters): Resources for beginner by nahamsec
 
 ## Hacktivism
 
