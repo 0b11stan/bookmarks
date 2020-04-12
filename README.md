@@ -62,6 +62,7 @@
 ## Pentest / BugBounty
 
 * [Beginner Nahamsec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters): Resources for beginner by nahamsec
+* [HaveIBeenPwned](https://haveibeenpwned.com/): Un moteur de recherche qui parcours les leak de donnée pour vérifier si ses identifiants ont été compromis
 
 ## Hacktivism
 
