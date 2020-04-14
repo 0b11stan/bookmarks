@@ -3,6 +3,10 @@
 ## Ecologie
 
 * [le réveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ): Chaine d'un Docteur en écologie qui explique beaucoup de choses d'un point de vue très objectif
+* [RAP](https://antipub.org/): Association antipub qui fait des actions de désobéissance
+* [la nef](https://www.lanef.com/): Banque qui tend à être plus ethique
+* [RAC](https://reseauactionclimat.org/): Un réseau qui fédère le cluster des associations engagés pour le climat
+* [micmac](http://avenirclimatique.org/micmac/index.php): Un simulateur en ligne qui permet de calculer son impacte carbone
 
 ## Collapsologie
 
