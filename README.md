@@ -15,14 +15,21 @@
 * [collapseos](https://collapseos.org/): Systeme d'exploitation résilient à un effondrement de la société
 * [projet tera](http://www.tera.coop/): Un projet intéressant de "quartier rural"
 * [autonomieparleslivres](https://autonomieparleslivres.com/): Une compilation de livres intéressant autoure de la philosophie autonomiste
+* [yggdrasil](https://yggdrasil-mag.com/): Un journal dont pablo servigne est l'un des fondateurs et qui s'ocuppe des questions liés à la collapsologie
 
-## Autonomie
+## Autonomie / DIY / Repair
 
 * [maisons autonomes](https://www.youtube.com/playlist?list=PLVipPfGuIPznnuaJVZKrhKHNa5QJp3AZK): Playliste de maisons autonomes plein de bonnes idée pour plus de résiliences
 * [homebrewserver](https://homebrewserver.club/): Communauté qui rassemble de la documentation sur l'auto-hébergement informatique
 * [diy bow](https://www.youtube.com/watch?v=d5GWpskm_IA): Réaliser un arc à partir d'un bois de qualité moyenne avec seulement 4 outils
 * [crossbow privitive](https://www.youtube.com/watch?v=oksgEIgIQbo): Arbalete à partir de bois et de pierre
 * [bigbluebutton](https://github.com/bigbluebutton/bigbluebutton): Système de vidéo-conférences open source
+* [republique bidouille](https://republiquebidouille.cc/qui-sommes-nous/): Une association bordelaise dans la philosophie d'open repair
+* [hello superette](https://www.youtube.com/channel/UC_BWOICivf-WFoTiNTZXXtA): Une chaine youtube de couture qui détaile la fabrication du vêtement
+* [allelectronics](https://www.allelectronics.com/): Site e-commerce de materiel éléctronique pour l'embarqué
+* [iFixit](https://www.youtube.com/user/iFixitYourself): Chaine youtube qui lutte pour la résilience des produits et leur réparabilité
+* [open repair](https://openrepair.org/): Collectif qui lutte pour la résilience des produits et leur réparabilité
+* [fairphone](https://www.fairphone.com/fr/): Téléphone avec une faible emprinte écologique qui facilite la réparation et la résilience
 
 ## Decentralization
 
@@ -45,13 +52,6 @@
 * [cat -v](http://harmful.cat-v.org/software/): Un blogue intéressant pour tout ce qui traite de la sobriété dans l'informatique
 * [suckless.org](http://suckless.org/): Website dedicated to sober computer science
 * [dial-up](https://dev.to/twilio/using-twilio-to-build-the-internet-2cnf?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&boos): Internet over SMS
-
-## Repair
-
-* [allelectronics](https://www.allelectronics.com/): Site e-commerce de materiel éléctronique pour l'embarqué
-* [iFixit](https://www.youtube.com/user/iFixitYourself): Chaine youtube qui lutte pour la résilience des produits et leur réparabilité
-* [open repair](https://openrepair.org/): Collectif qui lutte pour la résilience des produits et leur réparabilité
-* [fairphone](https://www.fairphone.com/fr/): Téléphone avec une faible emprinte écologique qui facilite la réparation et la résilience
 
 ## Privacy
 
