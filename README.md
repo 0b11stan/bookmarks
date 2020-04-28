@@ -80,6 +80,7 @@
 * [tornado](https://www.tornadoweb.org/en/stable/): Un framework web python orienté network IO qui accepte beaucoup de connexions concurrentes
 * [falcon](https://falcon.readthedocs.io/en/stable/): Un framework web python très léger surtout au niveau RAM
 * [pulumi](https://www.pulumi.com/): Un outil d'IAC qui permet d'utiliser de vrais languages pour décrire l'infra
+* [framework performance](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/): Un article très intéresant qui analyse la perf des plus grands framework js
 
 ## Pentest / BugBounty / Cybersec
 
@@ -97,6 +98,7 @@
 * [barbhack](https://www.barbhack.fr/en/index.html): Une conférence / festival de sécurité avec hackathon dans le sud de la france
 * [websec academy](https://portswigger.net/web-security): Des cours de penetration web par les créateurs de Burp
 * [hack5](https://shop.hak5.org/): Vente d'équipement utiles aux intrusions physiques
+* [ph0wn](https://ph0wn.org/): Un CTF pour ce qui à attrait à l'embarqué
 
 ## Operating Systems
 
@@ -110,7 +112,9 @@
 * [Pure OS](https://pureos.net/): Debian > orienté sécurité (défensive)
 * [Kali Linux](https://www.kali.org/): Debian > spécialisé pour la sécurité (offensive)
 * [Redox](https://www.redox-os.org/): Similaire à UNIX réalisé from scratch en rust
-* [Parrot Project](https://www.parrotsec.org/): "tout en un" orienté sécurité (defensive) et devellopement mais utilisable en desktop
+* [Parrot Project](https://www.parrotsec.org/): Debian > "tout en un" orienté sécurité (defensive) et devellopement mais utilisable en desktop
+* [Solus](https://getsol.us/home): Très simple, mature et user friendly
+* [NixOS](https://nixos.org): Un OS minimaliste basé sur le principe d'OS as code
 
 ## Hacktivism
 
