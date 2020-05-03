@@ -99,13 +99,19 @@
 * [websec academy](https://portswigger.net/web-security): Des cours de penetration web par les créateurs de Burp
 * [hack5](https://shop.hak5.org/): Vente d'équipement utiles aux intrusions physiques
 * [ph0wn](https://ph0wn.org/): Un CTF pour ce qui à attrait à l'embarqué
+* [encyclopedia kaspersky](https://encyclopedia.kaspersky.fr/knowledge/a-brief-history-of-hacking/): Un historique du piratage informatique et du hacking par Karspersky
 
 ## Operating Systems
 
 ### Phone based
 
-* [Pure OS](https://puri.sm/products/librem-5/pureos-mobile/): Linux > orienté sécurité
-* [NetHunter](https://www.kali.org/kali-linux-nethunter/): Android > Orienté sécurité offensive
+* [Plasma](https://www.plasma-mobile.org/index.html): Linux > Minimalisme technique, interface plasma
+* [Pure OS](https://puri.sm/products/librem-5/pureos-mobile/): Linux > Orienté sécurité, os du librem
+* [ubport](https://ubports.com/): Linux > Communauté ubuntu qui à repris le fork pour telephone
+* [sailfish](https://sailfishos.org/): Linux > Orienté sécurité hardocre, très bon UX
+* [/e/](https://e.foundation/): Android core > Orienté vie privée, le petit nouveau
+* [lineage](https://lineageos.org/): Android core > Orienté vie privé, le plus mainstream
+* [NetHunter](https://www.kali.org/kali-linux-nethunter/): Android core > Orienté sécurité offensive
 
 ### Desktop based
 
@@ -125,3 +131,5 @@
 * [obs studio](https://obsproject.com/): Très bon outil de screencast sur linux, windows et macos
 * [letsenhance](https://letsenhance.io/): Outil en ligne qui permet d'améliorer la résolution des images
 * [why bitcoin](https://medium.com/@wiz/why-bitcoin-359ada12629e): Un très bon article synthétique sur les avantages du bitcoin
+* [symbolics.com](http://symbolics.com/museum/wings): C'est le premier nom de domain enregistré sur internet, aujourd'hui un musée virtuel
+* [niky's](https://ncase.me/): Artiste et game designer sur le web qui fait plein d'histoires et de jeux ouf en js
