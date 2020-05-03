@@ -112,6 +112,7 @@
 * [/e/](https://e.foundation/): Android core > Orienté vie privée, le petit nouveau
 * [lineage](https://lineageos.org/): Android core > Orienté vie privé, le plus mainstream
 * [NetHunter](https://www.kali.org/kali-linux-nethunter/): Android core > Orienté sécurité offensive
+* [replicant](https://www.replicant.us/): Android core > Orienté minimalisme et privacy (un des premiers)
 
 ### Desktop based
 
