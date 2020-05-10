@@ -7,6 +7,7 @@
 * [RAP](https://antipub.org/): Association antipub qui fait des actions de désobéissance
 * [la nef](https://www.lanef.com/): Banque qui tend à être plus ethique
 * [RAC](https://reseauactionclimat.org/): Un réseau qui fédère le cluster des associations engagés pour le climat
+* [outils carbon](https://avenirclimatique.org/les-outils/): Présentation des outils de l'association avenirclimatique
 * [micmac](http://avenirclimatique.org/micmac/index.php): Un simulateur en ligne qui permet de calculer son impacte carbone
 * [carbon4](http://www.carbone4.com/publication-referentiel-nzi/): Un référenciel pour tendre vers un impacte carbon neutre par carbon4 pour les entreprises
 
@@ -68,6 +69,8 @@
 * [dan williams' blog](https://blogs.gnome.org/dcbw/): Blogue de Dan Williams, dévelloppeur de "Network Manager"
 * [jessie's blog](https://blog.jessfraz.com/): Blogue de Jessie Frazelle, develloppeuse système
 * [archlinux arm](https://archlinuxarm.org/): Une version d'archlinux pour architectures ARM
+* [the revenge of vim](https://hackaday.com/2016/08/08/editor-wars-the-revenge-of-vim/): Un super article qui montre un peu dans le détail la puissance de vim
+* [vimgolf](http://www.vimgolf.com/): Un ensemble de challenges qui permettent de devenir très bon à vim
 
 ## Dev
 
