@@ -84,6 +84,8 @@
 * [falcon](https://falcon.readthedocs.io/en/stable/): Un framework web python très léger surtout au niveau RAM
 * [pulumi](https://www.pulumi.com/): Un outil d'IAC qui permet d'utiliser de vrais languages pour décrire l'infra
 * [framework performance](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/): Un article très intéresant qui analyse la perf des plus grands framework js
+* [tom preston](https://tom.preston-werner.com/): Blog du fondateur de github Tom Preston Werner
+* [8bitmen](https://www.8bitmen.com/): Une très bon blogue qui écrit sur l'architecture logiciel des plus grandes entreprises (GAFAM)
 
 ## Pentest / BugBounty / Cybersec
 
@@ -103,6 +105,9 @@
 * [hack5](https://shop.hak5.org/): Vente d'équipement utiles aux intrusions physiques
 * [ph0wn](https://ph0wn.org/): Un CTF pour ce qui à attrait à l'embarqué
 * [encyclopedia kaspersky](https://encyclopedia.kaspersky.fr/knowledge/a-brief-history-of-hacking/): Un historique du piratage informatique et du hacking par Karspersky
+* [no limit sécu](https://www.nolimitsecu.fr/): Un podcast très instructif sur la sécurité informatique.
+* [AD post exploit](https://adsecurity.org/?p=2362): Un très bon article qui fait le tour des techniques d'exploitation d'Active Directory
+* [pivoting réseau 2019](https://orangecyberdefense.com/fr/insights/blog/ethical_hacking/etat-de-lart-du-pivoting-reseau-en-2019/): Article d'organge sur le pivoting réseau
 
 ## Operating Systems
 
