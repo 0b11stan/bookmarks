@@ -86,6 +86,9 @@
 * [framework performance](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/): Un article très intéresant qui analyse la perf des plus grands framework js
 * [tom preston](https://tom.preston-werner.com/): Blog du fondateur de github Tom Preston Werner
 * [8bitmen](https://www.8bitmen.com/): Une très bon blogue qui écrit sur l'architecture logiciel des plus grandes entreprises (GAFAM)
+* [OSDev](https://wiki.osdev.org/Main_Page): Un wiki pour les dévelloppeurs de noyaux
+* [linux kernel finder](https://elixir.bootlin.com/linux/v5.9-rc8/source/arch/x86/entry/entry_64.S#L95): An online search engine that indexes the linux kernel
+* [linux syscalls](https://elixir.bootlin.com/linux/v5.9-rc8/source/arch/x86/entry/syscalls/syscall_64.tbl): List of linux syscalls and there codes
 
 ## Pentest / BugBounty / Cybersec
 
@@ -108,6 +111,7 @@
 * [no limit sécu](https://www.nolimitsecu.fr/): Un podcast très instructif sur la sécurité informatique.
 * [AD post exploit](https://adsecurity.org/?p=2362): Un très bon article qui fait le tour des techniques d'exploitation d'Active Directory
 * [pivoting réseau 2019](https://orangecyberdefense.com/fr/insights/blog/ethical_hacking/etat-de-lart-du-pivoting-reseau-en-2019/): Article d'organge sur le pivoting réseau
+* [Nightmare](https://guyinatuxedo.github.io/): Une bonne ressource pour apprendre le reverse engineering et l'exploitation de binaire
 
 ## Operating Systems
 
@@ -130,6 +134,7 @@
 * [Parrot Project](https://www.parrotsec.org/): Debian > "tout en un" orienté sécurité (defensive) et devellopement mais utilisable en desktop
 * [Solus](https://getsol.us/home): Très simple, mature et user friendly
 * [NixOS](https://nixos.org): Un OS minimaliste basé sur le principe d'OS as code
+* [ReactOS](https://reactos.org/): Un os qui simule l'API système de windows pour fiare tourner nativement des applis windows.
 
 ## Hacktivism
 
