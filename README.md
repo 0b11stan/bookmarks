@@ -1,5 +1,72 @@
 # bookmarks
 
+## InfoSec
+
+### InfoSec - Tools
+
+* [Malice](https://github.com/maliceio/malice): Un équivalent open source de virustotal.
+* [HaveIBeenPwned](https://haveibeenpwned.com/): Un moteur de recherche qui parcours les leak de donnée pour vérifier si ses identifiants ont été compromis
+* [foxtrace](https://www.foxtrace.io/): Un moteur qui permet de chercher le web en profondeur pour des mots de passes et données perso
+* [flanscan](https://blog.cloudflare.com/introducing-flan-scan/): Le grand scanner de vulnérabilités de Cloudflaire
+* [vulners](https://vulners.com/landing): Un scanner de vulnérabilité très performant (rapide)
+* [hack5](https://shop.hak5.org/): Vente d'équipement utiles aux intrusions physiques
+
+### InfoSec - Misc
+
+* [LiveOverflow](https://liveoverflow.com/): Site web de liveoverflow, plein de vidéo intéressante sur la sécu en général.
+* [fail0verflow](https://fail0verflow.com/blog/): Le blogue d'un groupe de hacker connus: fail0verflow
+
+* [Beginner Nahamsec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters): Resources for beginner by nahamsec
+* [vim config](https://www.youtube.com/watch?v=l8iXMgk2nnY&feature=youtu.be): Présentation d'une config vim pour le pentest et bugbounty
+* [pwnie awards](https://pwnies.com/): Une compétition qui délivre des prix pour les pires et meilleurs entreprises sur un point de vue sécurité
+* [0day today](https://0day.today/): Une plateforme de vente et d'achat d'exploit et de vulnérabilités
+* [infographics](https://twitter.com/SecurityGuill/status/1154048628412993538): Un ensemble d'infographies très bien faites et très utiles
+* [phrack](http://phrack.org/index.html): LE maganzine de hacking reconnus qui à rassemblé une grosse communauté dans le passé
+* [encyclopedia kaspersky](https://encyclopedia.kaspersky.fr/knowledge/a-brief-history-of-hacking/): Un historique du piratage informatique et du hacking par Karspersky
+* [no limit sécu](https://www.nolimitsecu.fr/): Un podcast très instructif sur la sécurité informatique.
+
+### InfoSec - CTFs / Confs
+
+* [ph0wn](https://ph0wn.org/): [CTF] (centré sur l'embarqué)
+* [THC](https://thcon.party/): [CONF] [CTF] [TOULOUSE]
+* [sthack](http://sthack.fr/#): [CONF] [CTF] [BORDEAUX]
+* [lehack](https://lehack.org/en): [CONF] [PARIS] (anciennement nuit du hack)
+
+### InfoSec - Learning Ressources
+
+* [tcm-sec](https://academy.tcm-sec.com/): Un cour de sécu généraliste (25h).
+* [cryptography I](https://www.coursera.org/learn/crypto): Le cour de crypto de stanford par Dan Boneh.
+* [cryptohack](https://cryptohack.org/): Un site de challenges pour apprendre la crypto.
+* [hacking.app](https://hacking.app/): Un site qui regroupe les vidéo de liveoverflow par topic.
+* [PentesterLab](https://www.pentesterlab.com/): Regroupe plein de challenges et d'exercices pour la sécu.
+* [websec academy](https://portswigger.net/web-security): Des cours de penetration web par les créateurs de Burp
+* [AD post exploit](https://adsecurity.org/?p=2362): Un très bon article qui fait le tour des techniques d'exploitation d'Active Directory
+* [pivoting réseau 2019](https://orangecyberdefense.com/fr/insights/blog/ethical_hacking/etat-de-lart-du-pivoting-reseau-en-2019/): Article d'organge sur le pivoting réseau
+* [Nightmare](https://guyinatuxedo.github.io/): Une bonne ressource pour apprendre le reverse engineering et l'exploitation de binaire
+
+## Operating Systems
+
+### Phone based
+
+* [Plasma](https://www.plasma-mobile.org/index.html): Linux > Minimalisme technique, interface plasma
+* [Pure OS](https://puri.sm/products/librem-5/pureos-mobile/): Linux > Orienté sécurité, os du librem
+* [ubport](https://ubports.com/): Linux > Communauté ubuntu qui à repris le fork pour telephone
+* [sailfish](https://sailfishos.org/): Linux > Orienté sécurité hardocre, très bon UX
+* [/e/](https://e.foundation/): Android core > Orienté vie privée, le petit nouveau
+* [lineage](https://lineageos.org/): Android core > Orienté vie privé, le plus mainstream
+* [NetHunter](https://www.kali.org/kali-linux-nethunter/): Android core > Orienté sécurité offensive
+* [replicant](https://www.replicant.us/): Android core > Orienté minimalisme et privacy (un des premiers)
+
+### Desktop based
+
+* [Pure OS](https://pureos.net/): Debian > orienté sécurité (défensive)
+* [Kali Linux](https://www.kali.org/): Debian > spécialisé pour la sécurité (offensive)
+* [Redox](https://www.redox-os.org/): Similaire à UNIX réalisé from scratch en rust
+* [Parrot Project](https://www.parrotsec.org/): Debian > "tout en un" orienté sécurité (defensive) et devellopement mais utilisable en desktop
+* [Solus](https://getsol.us/home): Très simple, mature et user friendly
+* [NixOS](https://nixos.org): Un OS minimaliste basé sur le principe d'OS as code
+* [ReactOS](https://reactos.org/): Un os qui simule l'API système de windows pour fiare tourner nativement des applis windows.
+
 ## Ecologie
 
 * [chaine du réveilleur](https://www.youtube.com/channel/UC1EacOJoqsKaYxaDomTCTEQ): Chaine d'un Docteur en écologie qui explique beaucoup de choses d'un point de vue très objectif
@@ -89,52 +156,6 @@
 * [OSDev](https://wiki.osdev.org/Main_Page): Un wiki pour les dévelloppeurs de noyaux
 * [linux kernel finder](https://elixir.bootlin.com/linux/v5.9-rc8/source/arch/x86/entry/entry_64.S#L95): An online search engine that indexes the linux kernel
 * [linux syscalls](https://elixir.bootlin.com/linux/v5.9-rc8/source/arch/x86/entry/syscalls/syscall_64.tbl): List of linux syscalls and there codes
-
-## Pentest / BugBounty / Cybersec
-
-* [Beginner Nahamsec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters): Resources for beginner by nahamsec
-* [HaveIBeenPwned](https://haveibeenpwned.com/): Un moteur de recherche qui parcours les leak de donnée pour vérifier si ses identifiants ont été compromis
-* [vim config](https://www.youtube.com/watch?v=l8iXMgk2nnY&feature=youtu.be): Présentation d'une config vim pour le pentest et bugbounty
-* [foxtrace](https://www.foxtrace.io/): Un moteur qui permet de chercher le web en profondeur pour des mots de passes et données perso
-* [pwnie awards](https://pwnies.com/): Une compétition qui délivre des prix pour les pires et meilleurs entreprises sur un point de vue sécurité
-* [0day today](https://0day.today/): Une plateforme de vente et d'achat d'exploit et de vulnérabilités
-* [infographics](https://twitter.com/SecurityGuill/status/1154048628412993538): Un ensemble d'infographies très bien faites et très utiles
-* [flanscan](https://blog.cloudflare.com/introducing-flan-scan/): Le grand scanner de vulnérabilités de Cloudflaire
-* [vulners](https://vulners.com/landing): Un scanner de vulnérabilité très performant (rapide)
-* [phrack](http://phrack.org/index.html): LE maganzine de hacking reconnus qui à rassemblé une grosse communauté dans le passé
-* [fail0verflow](https://fail0verflow.com/blog/): Le blogue d'un groupe de hacker connus: fail0verflow
-* [barbhack](https://www.barbhack.fr/en/index.html): Une conférence / festival de sécurité avec hackathon dans le sud de la france
-* [websec academy](https://portswigger.net/web-security): Des cours de penetration web par les créateurs de Burp
-* [hack5](https://shop.hak5.org/): Vente d'équipement utiles aux intrusions physiques
-* [ph0wn](https://ph0wn.org/): Un CTF pour ce qui à attrait à l'embarqué
-* [encyclopedia kaspersky](https://encyclopedia.kaspersky.fr/knowledge/a-brief-history-of-hacking/): Un historique du piratage informatique et du hacking par Karspersky
-* [no limit sécu](https://www.nolimitsecu.fr/): Un podcast très instructif sur la sécurité informatique.
-* [AD post exploit](https://adsecurity.org/?p=2362): Un très bon article qui fait le tour des techniques d'exploitation d'Active Directory
-* [pivoting réseau 2019](https://orangecyberdefense.com/fr/insights/blog/ethical_hacking/etat-de-lart-du-pivoting-reseau-en-2019/): Article d'organge sur le pivoting réseau
-* [Nightmare](https://guyinatuxedo.github.io/): Une bonne ressource pour apprendre le reverse engineering et l'exploitation de binaire
-
-## Operating Systems
-
-### Phone based
-
-* [Plasma](https://www.plasma-mobile.org/index.html): Linux > Minimalisme technique, interface plasma
-* [Pure OS](https://puri.sm/products/librem-5/pureos-mobile/): Linux > Orienté sécurité, os du librem
-* [ubport](https://ubports.com/): Linux > Communauté ubuntu qui à repris le fork pour telephone
-* [sailfish](https://sailfishos.org/): Linux > Orienté sécurité hardocre, très bon UX
-* [/e/](https://e.foundation/): Android core > Orienté vie privée, le petit nouveau
-* [lineage](https://lineageos.org/): Android core > Orienté vie privé, le plus mainstream
-* [NetHunter](https://www.kali.org/kali-linux-nethunter/): Android core > Orienté sécurité offensive
-* [replicant](https://www.replicant.us/): Android core > Orienté minimalisme et privacy (un des premiers)
-
-### Desktop based
-
-* [Pure OS](https://pureos.net/): Debian > orienté sécurité (défensive)
-* [Kali Linux](https://www.kali.org/): Debian > spécialisé pour la sécurité (offensive)
-* [Redox](https://www.redox-os.org/): Similaire à UNIX réalisé from scratch en rust
-* [Parrot Project](https://www.parrotsec.org/): Debian > "tout en un" orienté sécurité (defensive) et devellopement mais utilisable en desktop
-* [Solus](https://getsol.us/home): Très simple, mature et user friendly
-* [NixOS](https://nixos.org): Un OS minimaliste basé sur le principe d'OS as code
-* [ReactOS](https://reactos.org/): Un os qui simule l'API système de windows pour fiare tourner nativement des applis windows.
 
 ## Hacktivism
 
