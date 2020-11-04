@@ -15,7 +15,6 @@
 
 * [LiveOverflow](https://liveoverflow.com/): Site web de liveoverflow, plein de vidéo intéressante sur la sécu en général.
 * [fail0verflow](https://fail0verflow.com/blog/): Le blogue d'un groupe de hacker connus: fail0verflow
-
 * [Beginner Nahamsec](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters): Resources for beginner by nahamsec
 * [vim config](https://www.youtube.com/watch?v=l8iXMgk2nnY&feature=youtu.be): Présentation d'une config vim pour le pentest et bugbounty
 * [pwnie awards](https://pwnies.com/): Une compétition qui délivre des prix pour les pires et meilleurs entreprises sur un point de vue sécurité
@@ -34,6 +33,7 @@
 
 ### InfoSec - Learning Ressources
 
+* [HackTricks](https://book.hacktricks.xyz/): Un cheat sheet très sympa pour le hacking.
 * [tcm-sec](https://academy.tcm-sec.com/): Un cour de sécu généraliste (25h).
 * [cryptography I](https://www.coursera.org/learn/crypto): Le cour de crypto de stanford par Dan Boneh.
 * [cryptohack](https://cryptohack.org/): Un site de challenges pour apprendre la crypto.
