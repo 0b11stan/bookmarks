@@ -30,6 +30,7 @@
 * [THC](https://thcon.party/): [CONF] [CTF] [TOULOUSE]
 * [sthack](http://sthack.fr/#): [CONF] [CTF] [BORDEAUX]
 * [lehack](https://lehack.org/en): [CONF] [PARIS] (anciennement nuit du hack)
+* [DG'hack](https://www.dghack.fr/): [CTF] [ONLINE]
 
 ### InfoSec - Learning Ressources
 
@@ -141,6 +142,7 @@
 
 ## Dev
 
+* [ox editor](https://github.com/curlpipe/ox): Un editeur minimaliste qui reprend les bonnes idée de plein d'autres editeurs.
 * [python vs go vs rust](https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/): Un program écrit en python, go et rust
 * [cat -v](http://harmful.cat-v.org/software/): Un blogue intéressant pour tout ce qui traite de la sobriété dans l'informatique
 * [suckless.org](http://suckless.org/): Website dedicated to sober computer science
