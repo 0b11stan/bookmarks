@@ -31,9 +31,11 @@
 * [sthack](http://sthack.fr/#): [CONF] [CTF] [BORDEAUX]
 * [lehack](https://lehack.org/en): [CONF] [PARIS] (anciennement nuit du hack)
 * [DG'hack](https://www.dghack.fr/): [CTF] [ONLINE]
+* [picoCTF](https://www.picoctf.org/): [CTF] [ONLINE]
 
 ### InfoSec - Learning Ressources
 
+* [picoCTF](https://picoctf.org/resources): Ce n'est pas qu'un ctf mais aussi une plateforme d'apprentissage orienté pour devenir bon en CTF.
 * [HackTricks](https://book.hacktricks.xyz/): Un cheat sheet très sympa pour le hacking.
 * [tcm-sec](https://academy.tcm-sec.com/): Un cour de sécu généraliste (25h).
 * [cryptography I](https://www.coursera.org/learn/crypto): Le cour de crypto de stanford par Dan Boneh.
@@ -170,3 +172,4 @@
 * [why bitcoin](https://medium.com/@wiz/why-bitcoin-359ada12629e): Un très bon article synthétique sur les avantages du bitcoin
 * [symbolics.com](http://symbolics.com/museum/wings): C'est le premier nom de domain enregistré sur internet, aujourd'hui un musée virtuel
 * [niky's](https://ncase.me/): Artiste et game designer sur le web qui fait plein d'histoires et de jeux ouf en js
+* [ffdn](https://ffdn.org/): Fédération des Fournisseurs d'Acces Internet Associatifs
