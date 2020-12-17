@@ -23,6 +23,9 @@
 * [phrack](http://phrack.org/index.html): LE maganzine de hacking reconnus qui à rassemblé une grosse communauté dans le passé
 * [encyclopedia kaspersky](https://encyclopedia.kaspersky.fr/knowledge/a-brief-history-of-hacking/): Un historique du piratage informatique et du hacking par Karspersky
 * [no limit sécu](https://www.nolimitsecu.fr/): Un podcast très instructif sur la sécurité informatique.
+* [erratasec](https://blog.erratasec.com/): Un blog qui traite l'actualité de la sécu en allant dans le détail.
+* [OSCP tools](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707): Des outils non officiels qui sont cool pour OSCP.
+* [OpenSSF](https://openssf.org/): Une communauté qui s'intéresse à la review des technos open source.
 
 ### InfoSec - CTFs / Confs
 
@@ -60,7 +63,7 @@
 * [NetHunter](https://www.kali.org/kali-linux-nethunter/): Android core > Orienté sécurité offensive
 * [replicant](https://www.replicant.us/): Android core > Orienté minimalisme et privacy (un des premiers)
 
-### Desktop based
+### Desktop / Server based
 
 * [Pure OS](https://pureos.net/): Debian > orienté sécurité (défensive)
 * [Kali Linux](https://www.kali.org/): Debian > spécialisé pour la sécurité (offensive)
@@ -69,6 +72,7 @@
 * [Solus](https://getsol.us/home): Très simple, mature et user friendly
 * [NixOS](https://nixos.org): Un OS minimaliste basé sur le principe d'OS as code
 * [ReactOS](https://reactos.org/): Un os qui simule l'API système de windows pour fiare tourner nativement des applis windows.
+* [Rocky Linux](https://github.com/rocky-linux): Un fork de CentOS qui à pour but de s'éloigner de la vision RedHat.
 
 ## Ecologie
 
@@ -87,6 +91,7 @@
 * [projet tera](http://www.tera.coop/): Un projet intéressant de "quartier rural"
 * [autonomieparleslivres](https://autonomieparleslivres.com/): Une compilation de livres intéressant autoure de la philosophie autonomiste
 * [yggdrasil](https://yggdrasil-mag.com/): Un journal dont pablo servigne est l'un des fondateurs et qui s'ocuppe des questions liés à la collapsologie
+* [floraisons](https://floraisons.blog/): Politise et militantise le discour écologique.
 
 ## Autonomie / DIY / Repair
 
@@ -106,6 +111,8 @@
 
 * [handshake](https://handshake.org/): Projet d'un système de nom et d'autorité certification décentralisé
 * [activity pub](https://activitypub.rocks/): Un protocole pour décentraliser les réseaux sociaux
+
+* [parti pirate](https://partipirate.org/): Un parti pseudo-anarchiste intéressant.
 
 ## Lowtech
 
@@ -141,6 +148,7 @@
 * [archlinux arm](https://archlinuxarm.org/): Une version d'archlinux pour architectures ARM
 * [the revenge of vim](https://hackaday.com/2016/08/08/editor-wars-the-revenge-of-vim/): Un super article qui montre un peu dans le détail la puissance de vim
 * [vimgolf](http://www.vimgolf.com/): Un ensemble de challenges qui permettent de devenir très bon à vim
+* [allan mcrae](http://allanmcrae.com/): Un dévelloppeur d'archlinux et spécifiquement du gestionaire de paquet pacman.
 
 ## Dev
 
@@ -160,6 +168,7 @@
 * [OSDev](https://wiki.osdev.org/Main_Page): Un wiki pour les dévelloppeurs de noyaux
 * [linux kernel finder](https://elixir.bootlin.com/linux/v5.9-rc8/source/arch/x86/entry/entry_64.S#L95): An online search engine that indexes the linux kernel
 * [linux syscalls](https://elixir.bootlin.com/linux/v5.9-rc8/source/arch/x86/entry/syscalls/syscall_64.tbl): List of linux syscalls and there codes
+* [Alex Dzyoba](https://alex.dzyoba.com/): Le blog d'un dev system completement énervé.
 
 ## Hacktivism
 
@@ -173,3 +182,4 @@
 * [symbolics.com](http://symbolics.com/museum/wings): C'est le premier nom de domain enregistré sur internet, aujourd'hui un musée virtuel
 * [niky's](https://ncase.me/): Artiste et game designer sur le web qui fait plein d'histoires et de jeux ouf en js
 * [ffdn](https://ffdn.org/): Fédération des Fournisseurs d'Acces Internet Associatifs
+* [Polymny Studio](https://polymny.studio/): Une plateforme OSS pour la création de capsules pour la formation en ligne.
