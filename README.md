@@ -26,6 +26,8 @@
 * [erratasec](https://blog.erratasec.com/): Un blog qui traite l'actualité de la sécu en allant dans le détail.
 * [OSCP tools](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707): Des outils non officiels qui sont cool pour OSCP.
 * [OpenSSF](https://openssf.org/): Une communauté qui s'intéresse à la review des technos open source.
+* [ghidra](https://ghidra-sre.org/): Un outil très puissant pour le reverse engineering.
+* [FindCrypt](https://github.com/d3v1l401/FindCrypt-Ghidra): Apparement un plugin utile pour ghidra.
 
 ### InfoSec - CTFs / Confs
 
@@ -35,9 +37,15 @@
 * [lehack](https://lehack.org/en): [CONF] [PARIS] (anciennement nuit du hack)
 * [DG'hack](https://www.dghack.fr/): [CTF] [ONLINE]
 * [picoCTF](https://www.picoctf.org/): [CTF] [ONLINE]
+* [infiltrate con](https://infiltratecon.com/): conf offensives très "black hat"
+* [offensive con](https://www.offensivecon.org/): conf offensive très "aggressive"
 
-### InfoSec - Learning Ressources
+### InfoSec - Learning Ressources & trainings
 
+* [hackthebox](https://www.hackthebox.eu/): Machines et challenge très structurés pour se train.
+* [vulnhub](https://www.vulnhub.com/): Ensemble de machines virtuelles pour s'entrainer sur des cibles plus réalistes sans login (assez libre).
+* [rootme](https://www.root-me.org/?lang=en): Incontournable pour le training sous forme de challenge (CTF).
+* [crackmes](https://crackmes.one/): For practicing reverse engineering ([to start](https://medium.com/swlh/intro-to-reverse-engineering-45b38370384))
 * [picoCTF](https://picoctf.org/resources): Ce n'est pas qu'un ctf mais aussi une plateforme d'apprentissage orienté pour devenir bon en CTF.
 * [HackTricks](https://book.hacktricks.xyz/): Un cheat sheet très sympa pour le hacking.
 * [tcm-sec](https://academy.tcm-sec.com/): Un cour de sécu généraliste (25h).
@@ -152,6 +160,7 @@
 
 ## Dev
 
+* [godbolt](https://godbolt.org/): C'est un "explorateur de compilateur", permet de compiler à la volé vers plein d'archi / compilo différent.
 * [ox editor](https://github.com/curlpipe/ox): Un editeur minimaliste qui reprend les bonnes idée de plein d'autres editeurs.
 * [python vs go vs rust](https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/): Un program écrit en python, go et rust
 * [cat -v](http://harmful.cat-v.org/software/): Un blogue intéressant pour tout ce qui traite de la sobriété dans l'informatique
