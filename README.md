@@ -29,6 +29,7 @@
 * [ghidra](https://ghidra-sre.org/): Un outil très puissant pour le reverse engineering.
 * [FindCrypt](https://github.com/d3v1l401/FindCrypt-Ghidra): Apparement un plugin utile pour ghidra.
 * [rsbkb](https://github.com/trou/rsbkb): Super usefull set of tools
+* [syscall.eu](https://syscall.eu/): One of tlssec teacher (trou)
 
 ### InfoSec - CTFs / Confs
 
@@ -161,6 +162,7 @@
 
 ## Dev
 
+* [windows-syscalls](https://github.com/j00ru/windows-syscalls): A list of windows syscalls as json, csv, ...
 * [godbolt](https://godbolt.org/): C'est un "explorateur de compilateur", permet de compiler à la volé vers plein d'archi / compilo différent.
 * [ox editor](https://github.com/curlpipe/ox): Un editeur minimaliste qui reprend les bonnes idée de plein d'autres editeurs.
 * [python vs go vs rust](https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/): Un program écrit en python, go et rust
@@ -179,6 +181,8 @@
 * [linux kernel finder](https://elixir.bootlin.com/linux/v5.9-rc8/source/arch/x86/entry/entry_64.S#L95): An online search engine that indexes the linux kernel
 * [linux syscalls](https://elixir.bootlin.com/linux/v5.9-rc8/source/arch/x86/entry/syscalls/syscall_64.tbl): List of linux syscalls and there codes
 * [Alex Dzyoba](https://alex.dzyoba.com/): Le blog d'un dev system completement énervé.
+* [python tcp client/server](https://gist.github.com/Integralist/3f004c3594bbf8431c15ed6db15809ae): Most straightforward implementation examples of python (TCP) client and server
+* [socket programming python](https://docs.python.org/3/howto/sockets.html): Howto socket programming in python
 
 ## Hacktivism
 
