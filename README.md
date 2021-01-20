@@ -28,6 +28,7 @@
 * [OpenSSF](https://openssf.org/): Une communauté qui s'intéresse à la review des technos open source.
 * [ghidra](https://ghidra-sre.org/): Un outil très puissant pour le reverse engineering.
 * [FindCrypt](https://github.com/d3v1l401/FindCrypt-Ghidra): Apparement un plugin utile pour ghidra.
+* [rsbkb](https://github.com/trou/rsbkb): Super usefull set of tools
 
 ### InfoSec - CTFs / Confs
 
